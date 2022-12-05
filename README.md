@@ -172,4 +172,4 @@ The X-Axis indicates the N (matrix size) while the Y-Axis inidicates the time ta
 
 Here's the plot for space complexity: (N = 10, 100, 1000, 10000, 100000)
 !["memory"](images/resultsmemory.png)
-The X-Axis indicates the matrix size or N while the Y-axis indicates the memory usage of the program.
+The X-Axis indicates the matrix size or N while the Y-axis indicates the memory usage of the program in K.
